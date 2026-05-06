@@ -1,64 +1,86 @@
-body{
+body {
     background-color: #c8d8ce;
     padding: 15px;
     overflow-wrap: anywhere;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color:#001866;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #001866;
 }
-h1{
+
+h1 {
     text-align: center;
-    font-size:350%;
+    font-size: 350%;
 }
-p{
-    text-align:justify;
-    font-size:130%;
+
+p {
+    text-align: justify;
+    font-size: 130%;
     margin: 10px;
 }
-hr{
+
+hr {
     border: none;
     height: 1px;
     background-color: black;
     opacity: 1;
     margin: 10px;
 }
-a{
+
+a {
     color: #480083;
     text-decoration: underline;
     font-weight: bolder;
 }
-h3{
+
+h3 {
     font-size: 130%;
     padding-left: 15px;
     font-style: italic;
 }
-li{
+
+li {
     font-size: 120%;
     margin-left: 30px;
 }
-img{
+
+img {
     border-radius: 8px;
     display: block;
 }
 
+table,
+th,
+td {
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*Klase*/
-.centered-image{
+.centered-image {
     width: 40%;
     margin-left: auto;
     margin-right: auto;
 }
-.central-focus-txt{
+
+.central-focus-txt {
     text-align: center;
     font-weight: bold;
 }
-.nabrajanje{
+
+.nabrajanje {
     margin-left: 30px;
 }
-.potpis{
+
+.potpis {
     text-align: right;
     font-size: 75%;
-    color:crimson;
+    color: crimson;
 }
-.interconnect{
+
+.interconnect {
     margin-right: 50px;
     margin-left: 10px;
     font-size: 150%;
@@ -68,6 +90,9 @@ img{
     text-align: center;
     width: 20%;
 }
-.interconnect a{
+
+.interconnect a {
     color: crimson;
-} /* Jer naravno moram posebno za ono što nije u globalnoj klasi*/
+}
+
+/* Jer naravno moram posebno za ono što nije u globalnoj klasi*/
