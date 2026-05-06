@@ -58,3 +58,15 @@ img{
     font-size: 75%;
     color:crimson;
 }
+.interconnect{
+    margin-right: 50px;
+    font-size: 150%;
+    font-weight: bold;
+    color: crimson;
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+}
+.interconnect a{
+    color: crimson;
+} /* Jer naravno moram posebno za ono što nije u globalnoj klasi*/
