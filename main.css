@@ -1,4 +1,4 @@
-body {
+body{
     background-color: #c8d8ce;
     padding: 15px;
     overflow-wrap: anywhere;
@@ -6,18 +6,18 @@ body {
     color: #001866;
 }
 
-h1 {
+h1{
     text-align: center;
     font-size: 350%;
 }
 
-p {
+p{
     text-align: justify;
     font-size: 130%;
     margin: 10px;
 }
 
-hr {
+hr{
     border: none;
     height: 1px;
     background-color: black;
@@ -25,24 +25,24 @@ hr {
     margin: 10px;
 }
 
-a {
+a{
     color: #480083;
     text-decoration: underline;
     font-weight: bolder;
 }
 
-h3 {
+h3{
     font-size: 130%;
     padding-left: 15px;
     font-style: italic;
 }
 
-li {
+li{
     font-size: 120%;
     margin-left: 30px;
 }
 
-img {
+img{
     border-radius: 8px;
     display: block;
 }
@@ -56,37 +56,37 @@ table{
     margin-right: auto;
     width: 80%;
 }
-th, td {
+th, td{
     border: 1px solid #444;
     padding: 12px 15px;
     text-align: center;
 }
 
 /*Klase*/
-.centered-image {
+.centered-image{
     width: 40%;
     margin-left: auto;
     margin-right: auto;
 }
 
-.central-focus-txt {
+.central-focus-txt{
     text-align: center;
     font-weight: bold;
     margin-top:20px;
     margin-bottom: 20px;
 }
 
-.nabrajanje {
+.nabrajanje{
     margin-left: 30px;
 }
 
-.potpis {
+.potpis{
     text-align: right;
     font-size: 75%;
     color: crimson;
 }
 
-.interconnect {
+.interconnect{
     margin-right: 50px;
     margin-left: 10px;
     font-size: 150%;
@@ -97,6 +97,6 @@ th, td {
     width: 20%;
 }
 
-.interconnect a {
+.interconnect a{
     color: crimson;
 } /* Jer naravno moram posebno za ono što nije u globalnoj klasi*/
